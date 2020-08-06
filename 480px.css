@@ -3,9 +3,7 @@
   margin-right: -555px;
   margin-left: 90px;
 }
-#no{
-  height: 60px;
-}
+
 .lokem{
   margin-left: 270px;
 }
@@ -58,4 +56,8 @@
 #polo{
   margin-left: 80px;
   margin-top: 35px;
+}
+header a{
+  color: #ff2315;
+  background: #ff886d;
 }

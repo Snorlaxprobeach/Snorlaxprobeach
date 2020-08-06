@@ -11,14 +11,14 @@
     <link rel="stylesheet" href="Mis estilos.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
-    <body>
+    <body id="body">
     <header id="header" class="bu">
       <h1 id="header_title">Bienvenidos a mi <strong class="s1">primera página web</strong>, aqui abajo las <strong class="s1">secciones de mi página,</strong> espero que les guste y <strong class="s1">dejen un comentario</strong> en la parte de abajo</h1>
       <div>
         <nav id="header_passection">
         <ol id="header_selection_passection">
           <li>
-            <a href="#Calculatodo">Resolvedor de problemas</a>
+            <a href="#Calculatodo" id="no">Resolvedor de problemas</a>
           </li>
           <li>
             <a href="#Videos">Explicaciones</a>
@@ -62,10 +62,12 @@
           <input type = "button" value = "Division" id = "vidi"/>
         </div>
       </section>
-      <p id="Calculatodo_sorry">Solo hay esto por ahora pero iremos mejorando</p>
-      <figure id="Calculatodo_image">
-        <img src="Imagenes/matem.jpg" width="350" height="250">
-      </figure>
+      <div class="lokem">
+        <p id="Calculatodo_sorry">Solo hay esto por ahora pero iremos mejorando</p>
+        <figure id="Calculatodo_image">
+          <img src="Imagenes/matem.jpg" width="350" height="250">
+        </figure>
+      </div>
     </section>
     <section id="Videos" class="bu">
       <h2 id="Videos_title">Si es que quieres saber más mira lo que hay abajo :)</h2>
@@ -122,7 +124,7 @@
         <p>Escribeme en elreydeagar@gmail.com</p>
       </div>
     </section>
-    <section>
+    <section id="iko">
       <footer id="footer">
         <div class="zx">
           <h5>Hecho con amor <strong id="qwer">❤❤❤</strong> de Snorlaxprobeach con agradecimento especial a Platzi y a GitHub</h5>

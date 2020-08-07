@@ -1,6 +1,9 @@
 body{
   background:#EB6720;
-  margin: 20px;
+  margin: 0px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 header{
   background:#F59460;
@@ -26,6 +29,8 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-left: -30px;
+  margin-right: -20px;
 }
 #s2{
   color:red;

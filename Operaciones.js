@@ -18,7 +18,7 @@ function golaga() {
   var v2 = parseFloat(prompt("Ahora dame el divisor"));
     respuesta = v1 / v2;
   if(v1 + v2 > 0){
-    document.write("El resultado de la division es " + respuesta);
+    alert("El resultado de la division es " + respuesta);
   }
   else {
     alert("Borrando datos del usuar10");
@@ -30,7 +30,7 @@ function losmulti(){
   var v2 = parseFloat(prompt("Ahora dame el segundo número"));
     respuesta = v1 * v2;
   if (v1 + v2 > 0){
-    document.write("El resultado de tu multiplicación es " + respuesta);
+    alert("El resultado de tu multiplicación es " + respuesta);
   }
   else {
     alert("8 bit virus ejecut4nd0s3");
@@ -44,7 +44,7 @@ function restario(){
     var v2 = parseFloat(prompt("Ahora el segundo sustraendo"));
     respuesta = (v1 - v2);
     if (v1 + v2 >= 0){
-        document.write("Tu resta da como resultado " + respuesta);
+        alert("Tu resta da como resultado " + respuesta);
     }
     else {
         document.write("Tu resta da como resultado tu peor pesadilla, ajajaajaj");
@@ -56,7 +56,7 @@ function sumatorio () {
   var v1 = parseFloat(prompt("Dime el primer sumando"));
   var v2 = parseFloat(prompt("Ahora el segundo sumando"));
   respuesta = (v1 + v2);
-      document.write("Tu suma da como resultado " + respuesta);
+      alert("Tu suma da como resultado " + respuesta);
 }
 
 function alreves () {
@@ -75,7 +75,7 @@ function alreves () {
     alert ("Tus datos se borraran del sistema automáticamente, error 01010");
     respuesta = ("Borrando datos, error 404");
   }
-  document.write("Y tu resultado es: <strong>" + respuesta + "</strong> aproximadamente");
+  alert("Y tu resultado es: " + respuesta + " aproximadamente");
 }
 
 function operaciones() {
@@ -94,5 +94,5 @@ function operaciones() {
       alert ("Tus datos se borraran del sistema automáticamente, error 01010");
         respuesta = ("Borrando datos, error 404");
     }
-      document.write("Y tu resultado es: <strong>" + respuesta + "</strong> aproximadamente");
+      alert("Y tu resultado es: " + respuesta + " aproximadamente");
 }

@@ -79,7 +79,7 @@ h2{
 }
 #Calculatodo_sorry{
   font-style:italic;
-  margin-left: 20px;
+  text-align: center;
 }
 
 #Videos a{
@@ -89,9 +89,6 @@ h2{
   margin: 0;
 
 }
-#Calculatodo_image{
-  margin: 0px 20px;
-}
 #Videos{
   border-bottom: 10px solid #EE844B;
   border-left: 10px solid #EE844B;
@@ -100,6 +97,10 @@ h2{
   margin-bottom: 40px;
   border: 10px solid #EE844B;
   padding: 5px 20px;
+}
+.lokem{
+  
+  margin: 0 37%;
 }
 #Calculatodo{
   border-top: 10px solid #EE844B;

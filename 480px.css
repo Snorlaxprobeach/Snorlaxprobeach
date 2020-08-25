@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+}
+#header_selection_passection{
+  flex-wrap: wrap;
+}
+#qwertylol{
+  width: 100%;
+  height: 200px;
+}
+.lokem{
+  width: 50%;
+  margin: 0 25%;
+}
+#Calculatodo{
+  margin: 0;
+}
+.soli{
+  height: 120px;
+}
+#Videos_title2{
+  text-align: center;
+}
+#Videos_title3{
+  text-align: center;
+}
+#Videos_title{
+  font-size: 30px;
+}
+#mono{
+  margin-left: 40px;
+}
+#Videos_enlaces a{
+  height: auto;
+}
+#casa{
+  margin-left: 40px;
+}
+#iu{
+  width: 20%;
+  margin-right: 40% !important;
+}
+#mn{
+  margin-right: 0 !important;
+  width: 20%;
+}
+#de{
+  margin-left: 60px;
+}
+#nio{
+  margin-left: 80px;
+}
+#Experences_part1{
+  width: 80%;
+  margin-right: 0;
+}
+#Experences_description{
+  font-size: 0.75em;
+}
+#Experences_image1{
+  width: 50%;
+  height: 50%;
+  margin: auto 25%;
+  padding-left: 0;
+}
+#diferente{
+  width: 30%;
+  font-size: 15px;
+  margin: auto;
+}
+#Experences_image2{
+  width: 90%;
+  height: auto;
+  margin: 0 5%;
+}
+#polo{
+  width: 30%;
+  height:auto;
+  margin: 0 35%;
+  font-size: 15px;
+}
+#Experences_description2{
+  font-size: 0.75em;
+}
+#Final{
+  flex-wrap: wrap;
+  padding: 3% 5%;
+}
+.direc{
+  width: 90%;
+  margin: auto;
+}
+#Final_title{
+  margin: 10px 0;
+}
+.direc2{
+  width: 90%;
+  margin: 8px 0;
+}
+.correomrp{
+  width: 20%;
+  height: 20%;
+  margin: 1% 40%;
+}
+#ert{
+  width: 75%;
+  margin: 1% 12.5%;
+}
+#footer{
+  padding: 2px 40px;
+  margin: 0;
+}
+#Experences_article{
+  flex-wrap: wrap;
+}
